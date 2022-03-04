@@ -25,7 +25,7 @@ public class Main{
             boolean val = handleBracket(st,'{');
             if(val == false){
                System.out.println(val);
-               return;
+               return;hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
             }
             
          }else if(ch == ']'){
